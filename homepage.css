@@ -145,13 +145,13 @@ h3{
     margin-left: 20px;
     width: 300px;
     height: 40px;
-    /* background-color: yellowgreen; */
+  
      opacity: 0;
     animation: slidedown 1s ease .5s forwards;
 
 }
 .button-sci a{
-    /* background-color: aqua; */
+    
       opacity: 0;
     animation: slidedown 1s ease .6s forwards;
 }
